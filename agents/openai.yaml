@@ -1,0 +1,4 @@
+interface:
+  display_name: "B站视频投稿"
+  short_description: "依据当期素材整理投稿内容并上传B站视频，检查保存草稿的结果"
+  default_prompt: "使用 $bilibili-video-publish 整理视频投稿信息并保存 B 站草稿。"
